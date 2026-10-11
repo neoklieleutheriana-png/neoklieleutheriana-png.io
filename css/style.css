@@ -1,0 +1,37 @@
+.my-image {
+    width: 200px;
+    float: right;
+}
+h1 {
+    text-align: center;
+   
+}
+
+.section1 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.section1 h2 {
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.content p {
+    margin-top: 0;
+}
+content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.content img {
+    width: 200px;
+    margin-left: auto;
+}
+h4 {
+    text-align: center;
+   
+}
+
