@@ -30,8 +30,84 @@ content {
     width: 200px;
     margin-left: auto;
 }
-h4 {
+
+h3 {
     text-align: center;
    
 }
+content p {
+    margin-top: 50px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    transition: 0.9s;
 
+}
+.belts-image {
+    width: 30%;
+    height: auto;
+}
+.kata-image {
+    width: 40%;
+    height: auto;
+}
+.my-image {
+    width: 19%;
+    height: auto;
+}
+h4 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+} 
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 26px;
+}
+h2 {
+    font-size: 30px;
+}
+body {
+    background-color: lightyellow;
+}
+h1 {
+    font-size: 50px;
+}
+
+img:hover {
+    transform: scale(1.1);
+    
+
+}
+h1:hover{
+    transform: scale(1.5);
+    color:lightblue;
+    text-shadow: 0 0 10px;
+}
+.kata5-image {
+    transition: 0.9s;
+}
+
+.kata5-image:hover {
+    transform: scale(1.1);
+}
+h2:hover{
+    transform: scale(1.2);
+    color:lightblue;
+    text-shadow: 0 0 10px;
+}
+h3:hover{
+    transform: scale(1.2);
+    color:lightblue;
+    text-shadow: 0 0 10px;
+}
+h4:hover{
+    transform: scale(1.2);
+    color:lightblue;
+    text-shadow: 0 0 10px;
+}
